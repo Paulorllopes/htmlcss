@@ -1,0 +1,47 @@
+p{
+color:white;
+background-color: seagreen;
+height: 333px;
+font-size: 55px;
+font-family: "times new roman";
+}
+body{
+	background-color: blue;
+}
+header{
+color:green;
+background-color: Yellow;
+height: 333px;
+font-size: 55px;
+font-family: "times new roman";
+}
+
+#div_esquerda{
+color:skyblue;
+background-color: darkviolet;
+height: 333px;
+width: 60%;
+float: left;
+font-size: 55px;
+font-family: "times new roman";
+}
+#div_direita{
+color: magenta;
+background-color: skyblue;
+height: 333px;
+width: 40%;
+float: right;
+font-size: 55px;
+font-family: "times new roman";
+
+}
+footer{
+color:green;
+background-color: Red;
+height: 100;
+font-size: 55px;
+font-family: "times new roman";
+clear: both;
+}	
+	
+}
